@@ -1,0 +1,9 @@
+A=0
+while A==0:
+    bruh=input("30+39?:")
+    if bruh=="69":
+        print("NERD YOU USED YOU BRAIN WHAT A NERD XD")
+        A=1
+    if A==0:
+        print("TRY AGAIN POOP FOR BRAINS XD")
+        print(" ")
